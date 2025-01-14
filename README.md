@@ -12,6 +12,12 @@ The following **required** functionality is completed:
 
 - [✅] Users are see a screen with three labels and a button
 - [✅] Tapping the button changes the screen color to a random color
+
+## GIF Preview
+
+Here is a preview of my app 
+
+- (https://imgur.com/a/5SqOvTc.gif).
  
 ## App Brainstorming (Step 4)
 
@@ -29,7 +35,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Adding the UI Button and make it into action was a little bit difficult and I also added the features of bg text with 3 label with each different text size 
+Making the gif was the hardest part here as I am a MAC USER I had to screen record and then have to trim the video then convert the .mov file into .gif file. Finally, by using Imgur create a link in to add. Adding the UI Button and make it into action was a little bit difficult and I also added the features of bg text with 3 label with each different text size.
 
 ## License
 
